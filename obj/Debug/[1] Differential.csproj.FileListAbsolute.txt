@@ -1,0 +1,9 @@
+D:\Моделирование\[1] Differential\bin\Debug\[1] Differential.exe.config
+D:\Моделирование\[1] Differential\bin\Debug\[1] Differential.exe
+D:\Моделирование\[1] Differential\bin\Debug\[1] Differential.pdb
+D:\Моделирование\[1] Differential\obj\Debug\[1] Differential.csprojResolveAssemblyReference.cache
+D:\Моделирование\[1] Differential\obj\Debug\_1__Differential.Form1.resources
+D:\Моделирование\[1] Differential\obj\Debug\_1__Differential.Properties.Resources.resources
+D:\Моделирование\[1] Differential\obj\Debug\[1] Differential.csproj.GenerateResource.Cache
+D:\Моделирование\[1] Differential\obj\Debug\[1] Differential.exe
+D:\Моделирование\[1] Differential\obj\Debug\[1] Differential.pdb
